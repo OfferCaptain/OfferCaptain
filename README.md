@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm 沃飞队长 (OfferCaptain) 👋
 
-<!--
-**OfferCaptain/OfferCaptain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Manager · AI Product Builder · Vibe Coding Explorer**
 
-Here are some ideas to get you started:
+- 🧭 10 years of product experience.
+- ☁️ Former AIOps Product Manager at BOSS Zhipin, focused on cloud platform products.
+- 🤖 Exploring AI Agents, Skills, Vibe Coding, and practical AI applications.
+- ✍️ Sharing product thinking, open-source Skills, AI experiments, and lessons from building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Believe
+
+Good products start with real user problems.
+
+---
+
+⭐️ 精选项目
