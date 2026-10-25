@@ -1,16 +1,16 @@
 # Hello, I'm 沃飞队长 (OfferCaptain) 👋
 
-**Product Manager · AI Product Builder · Vibe Coding Explorer**
+**产品经理 · Vibe Coding探索者**
 
-- 🧭 10 years of product experience.
-- ☁️ Former AIOps Product Manager at BOSS Zhipin, focused on cloud platform products.
-- 🤖 Exploring AI Agents, Skills, Vibe Coding, and practical AI applications.
-- ✍️ Sharing product thinking, open-source Skills, AI experiments, and lessons from building.
+- 前BOSS直聘 AI云平台 产品负责人，产品保障了用户月活1亿级时的高并发场景可稳定运行
+- 主导20+款产品从0到1的全流程，推动过30人研发团队完成项目落地
+- 精通监控告警、AIOps、CMDB及混合云架构☁️ 等企业IT业务
+- 10年🧭 运维云计算领域经验
 
 ## 🧠 What I Believe
 
-Good products start with real user problems.
+我分享的产品，永远始于真实问题
 
 ---
 
-⭐️ 精选项目
+## ⭐️ 精选项目
