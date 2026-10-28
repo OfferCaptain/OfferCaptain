@@ -14,3 +14,4 @@
 ---
 
 ## ⭐️ 精选项目
+https://github.com/OfferCaptain/wechat-moments-polisher
