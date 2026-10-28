@@ -14,4 +14,4 @@
 ---
 
 ## ⭐️ 精选项目
-https://github.com/OfferCaptain/wechat-moments-polisher
+[⭐ 朋友圈文案润色Skill｜随便发几句话，秒变个人语气的朋友圈文案，告别AI味](https://github.com/OfferCaptain/wechat-moments-polisher)
